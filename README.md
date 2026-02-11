@@ -318,10 +318,45 @@ Some icons also include **LEGACY** versions.
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Languages/C#.svg" width="32">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Languages/CS.svg" width="32">
     </td>
     <td>C#</td>
-    <td><code>Languages/C#</code></td>
+    <td><code>Languages/CS</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Languages/C++.svg" width="32">
+    </td>
+    <td>C++</td>
+    <td><code>Languages/C++</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Languages/CSS.svg" width="32">
+    </td>
+    <td>CSS</td>
+    <td><code>Languages/CSS</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Languages/Elm.svg" width="32">
+    </td>
+    <td>Elm</td>
+    <td><code>Languages/Elm</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Languages/Haskell.svg" width="32">
+    </td>
+    <td>Haskell</td>
+    <td><code>Languages/Haskell</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Languages/HTML.svg" width="32">
+    </td>
+    <td>HTML</td>
+    <td><code>Languages/HTML</code></td>
   </tr>
 </table>
 
