@@ -1,20 +1,8 @@
-<p align="center">
-  <a href="https://github.com/honkita">
-    <img src="https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_GitHub.svg" width="32">
-  </a>
-  <a href="https://elitelu.com">
-    <img src="https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_Link.svg" width="32">
-  </a>
-  <a href="https://www.linkedin.com/in/elitelu/">
-    <img src="https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_LinkedIn.svg" width="32">
-  </a>
-</p>
+[![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_GitHub.svg)](https://github.com/honkita) [![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_Link.svg)](https://elitelu.com) [![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_LinkedIn.svg)](https://www.linkedin.com/in/elitelu/)
 
-<h1 align="center">Pixel Icons for README</h1>
+# Pixel Icons for README
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_Maintained.svg" width="120">
-</p>
+![](https://raw.githubusercontent.com/honkita/PixelButtons/main/Pixel_Maintained.svg)
 
 ---
 
@@ -63,9 +51,14 @@ Some icons also include **LEGACY** versions.
 
 ---
 
-# DevTools
+## DevTools
 
-<table width="100%">
+<table style="width:100%">
+  <colgroup>
+    <col style="width: 10%">
+    <col style="width: 50%">
+    <col style="width: 40%">
+  </colgroup>
   <tr>
     <th align="center">Icon</th>
     <th align="left">Name</th>
@@ -139,11 +132,14 @@ Some icons also include **LEGACY** versions.
   </tr>
 </table>
 
----
+### Legacy
 
-## DevTools (Legacy)
-
-<table width="100%">
+<table style="width:100%">
+  <colgroup>
+    <col style="width: 10%">
+    <col style="width: 50%">
+    <col style="width: 40%">
+  </colgroup>
   <tr>
     <th align="center">Icon</th>
     <th align="left">Name</th>
@@ -161,15 +157,19 @@ Some icons also include **LEGACY** versions.
 
 ---
 
-# Frameworks
+## Frameworks
 
-<table width="100%">
+<table style="width:100%">
+  <colgroup>
+    <col style="width: 10%">
+    <col style="width: 50%">
+    <col style="width: 40%">
+  </colgroup>
   <tr>
     <th align="center">Icon</th>
     <th align="left">Name</th>
     <th align="left">Path</th>
   </tr>
-
   <tr>
     <td align="center">
       <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Frameworks/Express.svg" width="32">
@@ -177,4 +177,152 @@ Some icons also include **LEGACY** versions.
     <td>Express</td>
     <td><code>Frameworks/Express</code></td>
   </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Frameworks/Flask.svg" width="32">
+    </td>
+    <td>Flask</td>
+    <td><code>Frameworks/Flask</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Frameworks/Gradle.svg" width="32">
+    </td>
+    <td>Gradle</td>
+    <td><code>Frameworks/Gradle</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Frameworks/Nextjs.svg" width="32">
+    </td>
+    <td>Next.js</td>
+    <td><code>Frameworks/Nextjs</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Frameworks/Nodejs.svg" width="32">
+    </td>
+    <td>Node.js</td>
+    <td><code>Frameworks/Nodejs</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Frameworks/Processing.svg" width="32">
+    </td>
+    <td>Processing</td>
+    <td><code>Frameworks/Processing</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Frameworks/React.svg" width="32">
+    </td>
+    <td>React</td>
+    <td><code>Frameworks/React</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Frameworks/Vite.svg" width="32">
+    </td>
+    <td>Vite</td>
+    <td><code>Frameworks/Vite</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Frameworks/Vuejs.svg" width="32">
+    </td>
+    <td>Vue.js</td>
+    <td><code>Frameworks/Vuejs</code></td>
+  </tr>
 </table>
+
+---
+
+## IDE
+
+<table style="width:100%">
+  <colgroup>
+    <col style="width: 10%">
+    <col style="width: 50%">
+    <col style="width: 40%">
+  </colgroup>
+  <tr>
+    <th align="center">Icon</th>
+    <th align="left">Name</th>
+    <th align="left">Path</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/IDE/Eclipse.svg" width="32">
+    </td>
+    <td>Eclipse</td>
+    <td><code>IDE/Eclipse</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/IDE/Netbeans.svg" width="32">
+    </td>
+    <td>Netbeans</td>
+    <td><code>IDE/Netbeans</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/IDE/Overleaf.svg" width="32">
+    </td>
+    <td>Overleaf</td>
+    <td><code>IDE/Overleaf</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/IDE/VisualStudio.svg" width="32">
+    </td>
+    <td>Visual Studio</td>
+    <td><code>IDE/VisualStudio</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/IDE/VisualStudioCode.svg" width="32">
+    </td>
+    <td>Visual Studio Code</td>
+    <td><code>IDE/VisualStudioCode</code></td>
+  </tr>
+</table>
+
+---
+
+## Languages
+
+<table style="width:100%">
+  <colgroup>
+    <col style="width: 10%">
+    <col style="width: 50%">
+    <col style="width: 40%">
+  </colgroup>
+  <tr>
+    <th align="center">Icon</th>
+    <th align="left">Name</th>
+    <th align="left">Path</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Languages/ARM.svg" width="32">
+    </td>
+    <td>ARM</td>
+    <td><code>Languages/ARM</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Languages/C.svg" width="32">
+    </td>
+    <td>C</td>
+    <td><code>Languages/C</code></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Languages/C#.svg" width="32">
+    </td>
+    <td>C#</td>
+    <td><code>Languages/C#</code></td>
+  </tr>
+</table>
+
+---
