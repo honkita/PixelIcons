@@ -1,53 +1,180 @@
-[![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_GitHub.svg)](https://github.com/honkita) [![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_Link.svg)](https://elitelu.com) [![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_LinkedIn.svg)](https://www.linkedin.com/in/elitelu/)
+<p align="center">
+  <a href="https://github.com/honkita">
+    <img src="https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_GitHub.svg" width="32">
+  </a>
+  <a href="https://elitelu.com">
+    <img src="https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_Link.svg" width="32">
+  </a>
+  <a href="https://www.linkedin.com/in/elitelu/">
+    <img src="https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_LinkedIn.svg" width="32">
+  </a>
+</p>
 
-# Pixel Icons for README
+<h1 align="center">Pixel Icons for README</h1>
 
-![](https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_Maintained.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/honkita/MD-Links/main/Pixel_Maintained.svg" width="120">
+</p>
+
+---
 
 ## Icons
 
-Replace the **PATH_OF_ICON** with the icon path.
+Replace **`PATH_OF_ICON`** with the icon path.
 
-### Markdown
+### Markdown Usage
 
-Note that the default height of an icon is 32px x 32px. To change the width/height, refer to the HTML code.
+Default size is **32px × 32px**.
 
-```
+```md
 ![](https://raw.githubusercontent.com/honkita/PixelIcons/main/PATH_OF_ICON.svg)
 ```
 
-### HTML
+---
 
+### HTML Usage (Recommended for Custom Sizing)
+
+```html
+<img
+   title="NAME_OF_ICON"
+   src="https://raw.githubusercontent.com/honkita/PixelIcons/main/PATH_OF_ICON.svg"
+   width="32"
+/>
 ```
-  <img title="NAME_OF_ICON" src="https://raw.githubusercontent.com/honkita/PixelIcons/main/PATH_OF_ICON.svg">
-```
 
-Note that the icon is an \<img\>. Below is the recommended setting:
+| Variable | Description                                        |
+| -------- | -------------------------------------------------- |
+| width    | Controls icon width (height scales automatically). |
 
-| Variable | Use Case           |
-| -------- | ------------------ |
-| width    | Width of the icon. |
+---
 
-## Icon List
+## Icon Categories
 
-The icons are categorized into the following groups:
+Icons are grouped into:
 
 - DevTools
 - Frameworks
 - Languages
 - IDE
 
-The folder will be part of the path name. In addition to this, some icons will have a legacy version. This is because some icons have changed designs.
+The folder name is part of the path.
 
-### DevTools
+Some icons also include **LEGACY** versions.
 
-| Icon                                                                                          | Name                           | Path                       |
-| --------------------------------------------------------------------------------------------- | ------------------------------ | -------------------------- |
-| ![](https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/AEM.svg)               | AEM (Adobe Experience Manager) | DevTools/AEM               |
-| ![](https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/CloudflareWorkers.svg) | Cloudflare Workers             | DevTools/CloudflareWorkers |
-| ![](https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/Confluence.svg)        | Confluence                     | DevTools/Confluence        |
-| ![](https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/DBeaver.svg)           | DBeaver                        | DevTools/DBeaver           |
-| ![](https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/GitHub.svg)            | GitHub                         | DevTools/GitHub            |
-| ![](https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/Jira.svg)              | Jira                           | DevTools/Jira              |
-| ![](https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/JupyterHub.svg)        | JupyterHub                     | DevTools/JupyterHub        |
-| ![](https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/MATLAB.svg)            | MATLAB                         | DevTools/MATLAB            |
+---
+
+# DevTools
+
+<table width="100%">
+  <tr>
+    <th align="center">Icon</th>
+    <th align="left">Name</th>
+    <th align="left">Path</th>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/AEM.svg" width="32"></td>
+    <td>AEM (Adobe Experience Manager)</td>
+    <td><code>DevTools/AEM</code></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/CloudflareWorkers.svg" width="32"></td>
+    <td>Cloudflare Workers</td>
+    <td><code>DevTools/CloudflareWorkers</code></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/Confluence.svg" width="32"></td>
+    <td>Confluence</td>
+    <td><code>DevTools/Confluence</code></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/DBeaver.svg" width="32"></td>
+    <td>DBeaver</td>
+    <td><code>DevTools/DBeaver</code></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/GitHub.svg" width="32"></td>
+    <td>GitHub</td>
+    <td><code>DevTools/GitHub</code></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/Jira.svg" width="32"></td>
+    <td>Jira</td>
+    <td><code>DevTools/Jira</code></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/JupyterHub.svg" width="32"></td>
+    <td>JupyterHub</td>
+    <td><code>DevTools/JupyterHub</code></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/MATLAB.svg" width="32"></td>
+    <td>MATLAB</td>
+    <td><code>DevTools/MATLAB</code></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/Postman.svg" width="32"></td>
+    <td>Postman</td>
+    <td><code>DevTools/Postman</code></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/Supabase.svg" width="32"></td>
+    <td>Supabase</td>
+    <td><code>DevTools/Supabase</code></td>
+  </tr>
+
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/Swagger.svg" width="32"></td>
+    <td>Swagger</td>
+    <td><code>DevTools/Swagger</code></td>
+  </tr>
+</table>
+
+---
+
+## DevTools (Legacy)
+
+<table width="100%">
+  <tr>
+    <th align="center">Icon</th>
+    <th align="left">Name</th>
+    <th align="left">Path</th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/DevTools/LEGACY/AEM.svg" width="32">
+    </td>
+    <td>AEM (Adobe Experience Manager)</td>
+    <td><code>DevTools/LEGACY/AEM</code></td>
+  </tr>
+</table>
+
+---
+
+# Frameworks
+
+<table width="100%">
+  <tr>
+    <th align="center">Icon</th>
+    <th align="left">Name</th>
+    <th align="left">Path</th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://raw.githubusercontent.com/honkita/PixelIcons/main/Frameworks/Express.svg" width="32">
+    </td>
+    <td>Express</td>
+    <td><code>Frameworks/Express</code></td>
+  </tr>
+</table>
